@@ -1,7 +1,7 @@
 class Openssl < Formula
   homepage "https://openssl.org"
   url "https://www.openssl.org/source/openssl-1.0.2.tar.gz"
-  sha1 "9435f53d2bc625d80f7f4a7ab986e5e5bd18d01d"
+  sha1 "2f264f7f6bb973af444cd9fc6ee65c8588f610cc"
 
   option :universal
   option "without-check", "Skip build-time tests (not recommended)"
